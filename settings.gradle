@@ -1,0 +1,3 @@
+include ':test1library'
+include ':app'
+rootProject.name = "BaSalamUi"
